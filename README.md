@@ -39,13 +39,14 @@ Here are some ideas to get you started:
 🌱 **Learning:** Cloud Architecture, DevOps, and Modern JS Frameworks  
 👯 **Looking to Collaborate:** Open Source Projects & Innovative Web Solutions  
 💬 **Ask me about:** JavaScript, HTML/CSS, System Architecture  
-📧 **Reach me at:** rohansinghjaglan@gmail.com  
+📧 **Reach me at:** rohanjaglan942@gmail.com  
 ⚡ **Fun Fact:** I love turning complex problems into elegant code solutions! 
 
 ### 🎮 When I'm not coding:
 - 🎸 Playing guitar and creating music
 - 📚 Reading about emerging technologies  
 - 🏃‍♂️ Exploring the outdoors
+- 🥊 Practicing MMA
 - 🎯 Working on personal projects that matter
 
 ---
