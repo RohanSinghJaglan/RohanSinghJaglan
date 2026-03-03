@@ -43,7 +43,6 @@ Here are some ideas to get you started:
 ⚡ **Fun Fact:** I love turning complex problems into elegant code solutions! 
 
 ### 🎮 When I'm not coding:
-- 🎸 Playing guitar and creating music
 - 📚 Reading about emerging technologies  
 - 🏃‍♂️ Exploring the outdoors
 - 🥊 Practicing MMA
