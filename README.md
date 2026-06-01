@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Welcome%20To%20Rohan's%20Universe&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
 
-### 💻 Full Stack Developer | 🎯 Computer Science Enthusiast
+### 💻 AI-Full Stack Developer | 🎯 Computer Science Enthusiast
 ### 🌟 Building Tomorrow's Web with Code & Creativity
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D9FF&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Welcome+to+my+digital+universe!;Crafting+elegant+solutions+with+code;From+Assembly+to+Full+Stack+%F0%9F%9A%80;Let's+build+something+extraordinary!" alt="Typing SVG" />
